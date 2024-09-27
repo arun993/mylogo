@@ -11,7 +11,7 @@ echo -e "\e[1;31m
 
 echo -e "\e[1;31m
      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-       My X profile : https://x.com/Arun__993
+       Follow me on X : https://x.com/Arun__993
      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
       
 \e[0m"
