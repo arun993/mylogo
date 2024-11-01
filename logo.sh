@@ -1,4 +1,4 @@
-echo -e "\e[1;35m
+echo -e "\e[1;31m
                      Script is Starting...
 \e[0m"
 
